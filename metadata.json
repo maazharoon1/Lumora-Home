@@ -1,0 +1,6 @@
+{
+  "name": "Lumora Home",
+  "description": "Discover thoughtfully crafted luxury furniture, natural materials, and timeless home décor from Lumora Home. Explore living, dining, bedroom, outdoor, lighting, and design collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
